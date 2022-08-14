@@ -69,7 +69,7 @@ yarn watch;
 ```
 
 When these builds have completed, open your web browser to https://localhost:8701
-(note that dev servers are run via **https**)
+(note that dev servers are run via **https**; you can bypass the Chrome "insecure content" error with `chrome://flags/#allow-insecure-localhost`)
 
 ### running a REPL
 
