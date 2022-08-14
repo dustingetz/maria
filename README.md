@@ -73,7 +73,7 @@ When these builds have completed, open your web browser to https://localhost:870
 
 ### running a REPL
 
-The default `nrepl` port, configured in `shadow-cljs.edn`, is `7888`.
+The default `nrepl` port, configured in `shadow-cljs.edn`, is `9000`.
 
 Once connected, the following will print out a list of things you can do:
 
